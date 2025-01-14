@@ -3,3 +3,6 @@
 - Meat
 - Cheese
 - Vegetables
+- Coke Zero
+- Lemonade
+- Cinema tickets
