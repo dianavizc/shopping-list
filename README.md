@@ -1,0 +1,5 @@
+- Hand cream
+- Gloves
+- Meat
+- Cheese
+- Vegetables
